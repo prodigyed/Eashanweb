@@ -1,0 +1,21 @@
+
+body{
+    background-color: aqua;
+    color: brown;
+}
+h1{
+    background-color: blue;
+    color: yellow;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#heading3{
+    background-color: black;
+    color: yellow;
+}
+.abc{
+    background-color: chartreuse;
+    color: red;
+}
